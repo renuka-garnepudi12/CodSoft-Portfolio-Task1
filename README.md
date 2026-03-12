@@ -49,10 +49,10 @@ The main objective of this project is to demonstrate fundamental web development
 ## 📂 Project Structure
 Portfolio
 │
-├── index.html
-├── style.css
-├── profile.jpg
-└── resume.pdf
+  ├──  index.html
+  ├──  style.css
+  ├──  profile.jpg
+  └──  resume.pdf
 
 ## 📷 Output Screenshot
 
